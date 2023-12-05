@@ -1,9 +1,15 @@
 <template>
+
   <div>
-    <h1>我是vue3哈哈</h1>
+    <el-button type="primary" size="default" @click="">我是按钮</el-button>
+    
   </div>
+
 </template>
 
-<script setup lang="ts"></script>
+<script lang="ts" setup>
+
+</script>
+
 
 <style scoped></style>
