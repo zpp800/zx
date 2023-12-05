@@ -1,14 +1,14 @@
 <template>
-  <div>
-       655 0 nnjjbbbhj  jnn  n bvv 
-       jbh
-  </div> 
+  <div class="box"></div>
 </template>
 
-<script setup lang='ts'>
-
+<script setup lang="ts">
+var a = "你好";
+console.log(a);
 </script>
 
-<style scoped>
-
+<style scoped lang="scss">
+.box{
+  width: 500px;
+}
 </style>
