@@ -3,12 +3,12 @@
 </template>
 
 <script setup lang="ts">
-var a = "你好";
-console.log(a);
+var a = '你好'
+console.log(a)
 </script>
 
 <style scoped lang="scss">
-.box{
+.box {
   width: 500px;
 }
 </style>
