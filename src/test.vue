@@ -1,11 +1,12 @@
 <template>
   <div>
-    <h1>我是vue3 </h1>
-  </div>
+       655 0 nnjjbbbhj  jnn  n bvv 
+       jbh
+  </div> 
 </template>
 
 <script setup lang='ts'>
-  
+
 </script>
 
 <style scoped>
